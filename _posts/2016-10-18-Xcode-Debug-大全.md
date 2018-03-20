@@ -7,7 +7,7 @@ author:     BY
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
-    - iOS
+    - Android
     - 开发技巧
     - Debug
 ---
