@@ -14,6 +14,35 @@ tags:
 
 
 # 前言
+刚刚学习Android，搭个博客记录一下学习过程。感谢柏莹大佬的技术博客~
+
+# 开发环境
+
+目前主流的开发工具有两个，一个是 Eclipse 另外一个是 Android Studio。 Eclipse 需要和 ADT（Android Develop Tool）插件整合后才能使用，
+
+不过 Google 官方已经直接提供了 Eclipse 和 ADT 集成好的开发工具，叫 ADT-Bundle。
+
+Android Studio 是 Google 基于 IntelliJ IDEA 开发的 Android 集成开发工具，目前国内使用该开发工具的企业也越来越多。
+
+基础阶段我还是用用 Eclipse 吧，毕竟本板砖支持不了
+
+# ADT-Bundle 的下载和安装
+
+第一步：JDK 的安装：附上官方下载地址： http://www.oracle.com/technetwork/java/javase/downloads/index.htmle
+
+下载好以后安装，并配置系统环境变量。（JAVA基础，书上就有）
+
+第二步：下载 ADT-Bundle for Windows：    官方下载地址：http://developer.android.com/sdk/index.html （貌似被屏蔽）
+
+第三步：安装 ADT-Bundle：直接把下载下来的 adt-bundle-windows-xxx-xxx.zip 解压到需要安装的位置
+
+# SDK 目录结构
+
+将下载好的 ADT-Bundle 解压后根目录结构如图 1-2 所示，总共包括 3 个部分，eclipse、sdk、SDK Manager.exe。
+
+![](http://p5vwvzwk2.bkt.clouddn.com/18-3-20/87052878.jpg)
+![](http://p5vwvzwk2.bkt.clouddn.com/18-3-20/91479246.jpg)
+
 
 >BUG,简单来说就是程序运行结果与预期的不同，下面来说说Xcode中的DEBUG方法
 >
